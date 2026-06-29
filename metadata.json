@@ -1,0 +1,6 @@
+{
+  "name": "BEU Connect",
+  "description": "Simple Academic Toolkit for Bihar Engineering University students containing calculators, trackers, predictors, and shortcuts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
